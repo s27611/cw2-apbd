@@ -1,0 +1,15 @@
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\bin\Debug\net8.0\Apbd.exe
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\bin\Debug\net8.0\Apbd.deps.json
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\bin\Debug\net8.0\Apbd.runtimeconfig.json
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\bin\Debug\net8.0\Apbd.dll
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\bin\Debug\net8.0\Apbd.pdb
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.sourcelink.json
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.dll
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\refint\Apbd.dll
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.pdb
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\Apbd.genruntimeconfig.cache
+C:\Users\Michał\Desktop\Zadanie10\Zadanie10\Apbd\Apbd\obj\Debug\net8.0\ref\Apbd.dll
